@@ -1,6 +1,6 @@
 # DiPaTool
 This repository describes the paper "From Pixels to Reality: Software Automation Tool for Digital-Physical Attack on Real-World Camera"
 
-To watch the video description download the file ToolDescription.mp4
+To watch the video click on photo:
+[![Tool Description](https://img.youtube.com/vi/tbJJr1KEAJc/mqdefault.jpg)](https://youtu.be/tbJJr1KEAJc)
 
-[![Tool Description](https://img.youtube.com/vi/tbJJr1KEAJc/mqdefault.jpg)](https://www.youtube.com/tbJJr1KEAJc)
